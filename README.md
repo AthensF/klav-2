@@ -4,7 +4,7 @@ Driving B2C marketers to commerce x AI
 From this
 ![Demo](before.jpg)
 To this
-![Demo](after.jpg)
+![Demo](after.gif)
 
 try it here:
 https://athensf.github.io/klav-2/
